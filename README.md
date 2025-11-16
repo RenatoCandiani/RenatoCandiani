@@ -11,12 +11,7 @@ Também finalizei duas formações que moldaram meu skillset:
 - **AWS Re/Start** → Fundamentos fortes de nuvem, Linux, redes e boas práticas
 
 ## O que eu busco
-  Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento**, onde eu possa:
-
-- Transformar planilha em processo eficiente  
-- Automatizar o que rouba tempo  
-- Gerar análise clara e útil  
-- Entregar mais do que pedem
+  Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento**
 
 
 
