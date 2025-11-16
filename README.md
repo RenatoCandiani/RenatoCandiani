@@ -151,12 +151,11 @@ Também finalizei duas formações que moldaram meu skillset:
     align="left" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1"
 />
 
 <img 
     align="left" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&
-    langs_count=9"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
