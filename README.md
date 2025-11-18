@@ -140,7 +140,7 @@ Também finalizei duas formações que moldaram meu skillset:
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Meu GitHub em números
 
 <img 
     align="left" 
