@@ -132,10 +132,6 @@ Também finalizei duas formações que moldaram meu skillset:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
-
-
-
-
 <br/>
 <br/>
 <br/>
@@ -154,3 +150,25 @@ Também finalizei duas formações que moldaram meu skillset:
     height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
+
+
+
+
+
+
+## 💼 Projetos em destaque
+
+### [Noolar](https://noolar.vercel.app/)
+
+
+
+---
+
+## 📫 Contato
+
+- [GitHub](https://github.com/RenatoCandiani)  
+- [LinkedIn](https://www.linkedin.com/in/renatocandiani/)  
+
+---
+
+Obrigado pela visita ao perfil! Rumo ao incrível 🚀    
