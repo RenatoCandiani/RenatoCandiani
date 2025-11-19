@@ -156,19 +156,4 @@ Também finalizei duas formações que moldaram meu skillset:
 
 
 
-## 💼 Projetos em destaque
-
-### [Noolar](https://noolar.vercel.app/)
-
-
-
----
-
-## 📫 Contato
-
-- [GitHub](https://github.com/RenatoCandiani)  
-- [LinkedIn](https://www.linkedin.com/in/renatocandiani/)  
-
----
-
-Obrigado pela visita ao perfil! Rumo ao incrível 🚀    
+   
