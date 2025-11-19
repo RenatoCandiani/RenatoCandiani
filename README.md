@@ -11,7 +11,7 @@ Também finalizei duas formações que moldaram meu skillset:
 - **AWS Re/Start** → Fundamentos fortes de nuvem, Linux, redes e boas práticas
 
 ## O que eu busco
-Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento**
+Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento.**
 
 ---
 
