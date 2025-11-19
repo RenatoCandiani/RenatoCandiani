@@ -7,153 +7,57 @@ Me chamo Renato Candiani, tenho 19 anos e sou natural de São Paulo. Concluí o 
 Passei pelo **Instituto PROA**, onde atuei como **Desenvolvedor Front-end** e aprofundei meu nível de **Java**.  
 Também finalizei duas formações que moldaram meu skillset:
 
-- **Formação Excel – Alura** → Excel avançado, dashboards, Power Query e VBA pra automação  
+- **Formação Excel – Alura** → Excel avançado, dashboards, Power Query e VBA para automação  
 - **AWS Re/Start** → Fundamentos fortes de nuvem, Linux, redes e boas práticas
 
 ## O que eu busco
-  Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento**
-
-
+Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" 
-/>
+## 🤖 Linguagens e Tecnologias
+<div align="center">
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<img title="Excel" width="40px" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/>
+<img title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+</div>
 
- <img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-    
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-           
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 📊 Meu GitHub em números
+<div align="center">
 
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-                  
-          
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&cache_seconds=1"/>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
 
+</div>
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<br/>
-<br/>
-<br/>
+---
 
-### 📊 Meu GitHub em números
+## 💼 Projetos em destaque
 
-<img 
-    align="left" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&cache_seconds=1"
-/>
+### 🔹 [Noolar](https://noolar.vercel.app/)
+Plataforma comunitária que ajuda imigrantes latino-americanos a se integrarem no Brasil com informações confiáveis e um caminho personalizado de orientação.
 
-<img 
-    align="left" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
+---
 
+## 📫 Contato
+- [GitHub](https://github.com/RenatoCandiani)  
+- [LinkedIn](https://www.linkedin.com/in/renatocandiani/)  
 
+---
 
-
-
-
-   
+Obrigado pela visita ao perfil! Rumo ao incrível 🚀
