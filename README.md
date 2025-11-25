@@ -39,9 +39,9 @@ Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento.**
 ## 📊 Meu GitHub em números
 <div align="center">
 
-<img height="200px" src="https://github-readme-stats-psi-lime-18.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&cache_seconds=1"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&cache_seconds=1"/>
 
-<img height="200px" src="https://github-readme-stats-psi-lime-18.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"/>
 
 </div>
 
