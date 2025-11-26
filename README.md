@@ -40,10 +40,12 @@ Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento.**
 <div align="center">
 
 <img height="200px" 
-     src="https://github-readme-stats.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"/>
+     src="https://github-readme-stats-psi-swart-57.vercel.app/api?username=RenatoCandiani&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"/>
+
 
 <img height="200px" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+     src="https://github-readme-stats-psi-swart-57.vercel.app/api/top-langs/?username=RenatoCandiani&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
 
 </div>
 
