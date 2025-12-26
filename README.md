@@ -56,7 +56,7 @@ Estágio nas áreas de **Excel, Dados, Automação ou Desenvolvimento.**
 ### 🔹 [Noolar](https://noolar.vercel.app/)
 Plataforma comunitária que ajuda imigrantes latino-americanos a se integrarem no Brasil com informações confiáveis e um caminho personalizado de orientação.
 
-### 🔹 [Easy & Quick Market]
+### 🔹 Easy & Quick Market
 Plataforma que auxilia na redução de desperdício e controle de gastos impulsivos.
 
 ---
