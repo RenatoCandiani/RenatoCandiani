@@ -2,7 +2,9 @@
 
 **`Analista de Dados`**
 
-Me chamo Renato Candiani, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em "Informática para Internet". Atualmente, estou cursando "Ciência da Computação" na UNIP.
+Me chamo Renato Candiani, tenho 20 anos e sou natural de São Paulo. Atualmente, sou Aprendiz Corporativo na *Amazon*, onde exploro competências em automação e dados, alinhadas às minhas habilidades técnicas.
+
+Concluí o ensino médio na ETEC, com o curso técnico em "Informática para Internet". Atualmente, estou cursando "Ciência da Computação" na UNIP.
 
 Passei pelo **Instituto PROA**, onde atuei como **Desenvolvedor Front-end** e aprofundei meu nível de **Java**.  
 Também finalizei duas formações que moldaram meu skillset:
